@@ -1,2 +1,2 @@
-# react-ts-live-coding
-react-ts-live-coding
+# react-ts-starter
+react-ts-starter
